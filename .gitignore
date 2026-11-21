@@ -1,0 +1,23 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.db
+*.db-journal
+llm_cache/
+
+# node
+node_modules/
+dist/
+
+# misc
+.DS_Store
+.idea/
+.vscode/
