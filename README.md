@@ -228,7 +228,7 @@ Data-testids: `chat-input`, `send-button`, `assistant-message`, `meta-source`, `
 
 ## 5. Setup Used
 
-* AI tool: Claude (Anthropic), used to generate, run and debug the code.
+* AI-Assisted Development: Claude (Anthropic) for code generation, debugging, implementation support, and iterative development.
 * Local machine: Windows, Command Prompt, Python 3.13, Node 22.
 * Backend: FastAPI, LiteLLM 1.110.2, SQLite (stdlib `sqlite3`), pytest. Docker image uses Python 3.12.
 * Frontend: React 19, Vite 8, plain CSS; served by nginx in the Docker image.
